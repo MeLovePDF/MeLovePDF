@@ -1,0 +1,47 @@
+<div align="center">
+  <img src="https://www.melovepdf.com/assets/img/melovepdf.svg" alt="MeLovePDF Logo" width="280">
+  
+  # MeLovePDF 
+  ### 100% Free, Fast & Private Online PDF, Image & Media Tools Suite
+
+  [![Website](https://img.shields.io/badge/Website-melovepdf.com-e5322d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.melovepdf.com)
+  [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+  [![Security](https://img.shields.io/badge/Privacy-100%25%20Client--Side-success?style=for-the-badge&logo=shield)](https://www.melovepdf.com/security)
+  [![Speed](https://img.shields.io/badge/Performance-Zero%20Queue-orange?style=for-the-badge&logo=speedtest)](https://www.melovepdf.com)
+</div>
+
+---
+
+### 🌟 About MeLovePDF
+**[MeLovePDF](https://www.melovepdf.com)** is an open, high-performance web platform designed to eliminate daily file limits, forced watermarks, and expensive subscriptions. Built with modern WebAssembly hardware acceleration and private browser sandbox security, it delivers workstation-grade document and image manipulation right inside the web browser.
+
+---
+
+### 🚀 Core Capabilities
+
+#### 📄 PDF Powerhouse
+- **Dual-Tier PDF Compression:** Exact 0-byte target size matching (100KB, 200KB, custom) with crisp vector font preservation.
+- **Bi-Directional Conversions:** PDF to Word (clean OpenXML DrawingML schemas), Word to PDF, Excel, PowerPoint, and JPG.
+- **Organization & Security:** Merge, split, rotate, watermark, page numbering, 256-bit AES protection, and digital signatures.
+
+#### 🖼️ Image & Media Studio
+- **Online Photo Editor:** Creative filters, exposure adjustments, and artistic typography in browser memory.
+- **Next-Gen Formats:** Fast batch conversions for HEIC/HEIF (iOS), WebP, JPG, and PNG with alpha transparency.
+- **Everyday Media Utilities:** HD video extraction (TikTok, Instagram Reels, Facebook, YouTube, Pinterest, Twitter/X) without watermarks.
+
+#### 🤖 AI-Powered Intelligence
+- **Deep Neural OCR:** Multi-language text recognition with structural formatting retention.
+- **AI PDF Summarizer:** Instant document breakdown, table parsing, and interactive document chat.
+
+---
+
+### 🛡️ Privacy & Architecture Highlights
+- **Zero-Storage Retention:** Files are processed dynamically in temporary volatile buffers and immediately incinerated upon download.
+- **Client-Side First:** Wherever possible, transformations run locally via WebAssembly, minimizing cloud latency and bandwidth consumption.
+- **ISO 32000-1 Compliant:** All PDF outputs strictly adhere to international PDF and PDF/A archiving standards.
+
+---
+
+<div align="center">
+  <sub>Built for productivity lovers worldwide ❤️ • <a href="https://www.melovepdf.com">Visit MeLovePDF</a></sub>
+</div>
